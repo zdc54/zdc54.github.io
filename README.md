@@ -1,3 +1,1 @@
-<img src="profile.png" alt="Paris" class="center">
-
-                                    Something Great is coming, it's Phosphorous.
+Hi! I'm zdc54. This is my domain! nothing pretty here yet though.... want a drink?
